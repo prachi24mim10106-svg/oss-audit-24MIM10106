@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 1: System Identity Report
-# Author: Anushka | OSS Project
+# Author: prachi | OSS Project
 
 # --- Variables ---
 STUDENT_NAME="Prachi"
